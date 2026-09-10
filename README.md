@@ -1,26 +1,32 @@
 # Hi, I'm Yvonne
 
-I'm building AI workflows for the parts of life that feel repetitive, messy, and hard to keep organized.
+I'm an AI product builder who enjoys turning messy, repetitive problems into practical products and agent workflows.
 
-I like turning real personal workflows into reusable tools, especially around job search, productivity, and creative work.
+My work spans problem discovery, product strategy, interaction design, rapid prototyping, and building working demos. I am especially interested in AI products that reduce friction in everyday workflows—not just generate more information.
 
-## Featured Project
+## Featured AI projects
 
-### ApplyPilot
+### [ApplyPilot](https://github.com/yvonnehe772/applypilot)
 
-A reusable job application workflow for Codex and other AI agents.
+An open-source AI agent workflow for managing the job application process, from opportunity screening and resume preparation to applications and tracking. The project has received 200+ GitHub stars, and the original RedNote series reached nearly 260,000 views and 20,000 saves.
 
-ApplyPilot helps users set up a safer job application system with candidate profiles, application rules, resume routing, answer banks, dashboards, and ATS playbooks.
+### [Dwella](https://github.com/yvonnehe772/dwella-home-operations-agent)
 
-[View project](https://github.com/yvonnehe772/applypilot)
+An AI home-operations agent product case study exploring issue triage, provider routing, service coordination, escalation, and launch strategy for a complex real-world workflow.
 
-## Currently Exploring
+### [TinyStep](https://github.com/yvonnehe772/tinystep-ai-task-planner)
 
-- ADHD-friendly productivity tools
-- AI-assisted BGM matching for Douyin / TikTok videos
-- Practical agent workflows for everyday tasks
+An AI task-initiation prototype designed for people with ADHD and anyone who struggles to turn intention into action. It transforms messy voice or text input into small, concrete steps and surfaces one action at a time.
+
+## What I like to build
+
+- Human-centered AI products grounded in real user friction
+- Agent workflows that connect reasoning with execution
+- Rapid prototypes that make a product idea tangible and testable
+- Tools for job search, productivity, and everyday operations
+
+I build in public and share what works, what breaks, and what real users actually need.
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/wanyuhe/)
-- [GitHub](https://github.com/yvonnehe772)
